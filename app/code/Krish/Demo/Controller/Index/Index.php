@@ -5,7 +5,8 @@ class Index extends \Magento\Framework\App\Action\Action
 {
 	public function execute()
 	{
-		echo 'test';
+		echo 'test test';
+		// die
 		die('***---***');
 	}
 }

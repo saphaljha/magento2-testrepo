@@ -6,7 +6,6 @@ class Index extends \Magento\Framework\App\Action\Action
 	public function execute()
 	{
 		echo 'test test';
-		// die
-		die('***---***');
+		// just and update
 	}
 }
